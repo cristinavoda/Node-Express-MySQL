@@ -1,0 +1,32 @@
+{
+  "name": "proyecto-final",
+  "version": "1.0.0",
+  "description": "flowers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "cristina voda",
+  "license": "ISC",
+  "dependencies": {
+    "-": "^0.0.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "mysql": "^2.18.1",
+    "mysql2": "^3.6.1",
+    "nodemon": "^3.0.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cristinavoda/Proyecto-final.git"
+  },
+  "keywords": [
+    "none"
+  ],
+  "bugs": {
+    "url": "https://github.com/cristinavoda/Proyecto-final/issues"
+  },
+  "homepage": "https://github.com/cristinavoda/Proyecto-final#readme"
+}
